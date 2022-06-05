@@ -1,0 +1,33 @@
+{
+	"name": "wai",
+	"version": "1.0.1",
+	"main": "src/main.js",
+	"engines": {
+		"node": "16.13.0",
+		"npm": "*"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "npm start"
+	},
+	"author": "Wai",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@discordjs/opus": "^0.6.0",
+		"@discordjs/voice": "^0.7.2",
+		"@distube/spotify": "^1.1.0",
+		"@distube/yt-dlp": "^1.0.2",
+		"@distube/ytdl-core": "^4.11.3",
+		"discord-rpc": "^4.0.1",
+		"discord.js": "^13.0.1",
+		"distube": "^3.0.3",
+		"dotenv": "^10.0.0",
+		"ffmpeg-static": "^4.4.0",
+		"libsodium-wrappers": "^0.7.9",
+		"lyrics-finder": "^21.7.0",
+		"undici": "^4.12.2",
+		"yt-search": "^2.10.2",
+		"ytdl-core": "^4.9.1"
+	}
+}
