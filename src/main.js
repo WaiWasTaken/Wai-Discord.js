@@ -32,8 +32,8 @@ new SpotifyPlugin({
 	parallel: true,
 	emitEventsAfterFetching: false,
 	api: {
-		clientId: "fbc612754c3849168f29c5fa49f12dfd",
-		clientSecret: "ef52c646b35d4d21b187757798a99d03",
+		clientId: " ",
+		clientSecret: " ",
 	},
 });
 
